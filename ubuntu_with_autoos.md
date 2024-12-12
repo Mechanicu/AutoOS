@@ -78,7 +78,7 @@ make -j16 && make install
 ![alt text](./doc_image/update_grubconfig.png)
 
 ## 使用AutoOS优化config
-[具体的AutoOS项目和论文解析见这个文档]()。这里仅进行简单说明。
+[具体的AutoOS项目和论文解析见这个文档](./autoos_srccode.md)。这里仅进行简单说明。
 ### 技术背景
 #### 评估方法：UnixBench
 UnixBench的测试包括两个方面：
